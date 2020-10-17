@@ -1,0 +1,36 @@
+.about,section {
+    display:inline-block;
+   }
+   
+   .about a {
+    display:block;
+text-decoration: none;
+color: black;
+   }
+   div {
+       text-align: right;
+       padding-right: 40px;
+   }
+section {
+    padding-right: 1050px;
+font-size: 20px;   
+}
+a:hover {
+    color: grey;
+    text-decoration: underline;
+}
+li {
+    font-size: 26px;
+}
+p {
+    font-size: 18px;
+}
+#section3 {
+    padding: 0;
+    text-align: center;
+
+}
+#section2 {
+    padding: 0;
+    text-align: center;
+}
